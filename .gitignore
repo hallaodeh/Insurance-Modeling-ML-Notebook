@@ -1,0 +1,10 @@
+# --- User Specific Ignores ---
+images/
+data/raw/
+src/
+
+# --- Standard Python Ignores ---
+.ipynb_checkpoints
+__pycache__/
+.DS_Store
+.env
