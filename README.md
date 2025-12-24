@@ -63,8 +63,8 @@ This repository contains a Jupyter notebook that implements a complete machine-l
 Project files
 - notebooks/ML-Project.ipynb — full ML pipeline and experiments
 - data/
-  - bzan6357_insurance_3_TRAINING.csv — training set
-  - bzan6357_insurance_3_SCORE.csv — scoring set
+  - insurance_3_TRAINING.csv — training set
+  - insurance_3_SCORE.csv — scoring set
 - README.md
 - requirements.txt (optional)
 
